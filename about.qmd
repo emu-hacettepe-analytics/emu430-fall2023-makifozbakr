@@ -5,26 +5,29 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   Industrial Engineering, Hacettepe University, Turkey, 2018 - Ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
+1.  Kuveyt Türk Participation Bank Inc., Candidate Engineer, 2023
 
-2.  Firm yyy, position yyy, year yyy
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Manas Energy Management, Summer Intern, 2022
 
-2.  Firm bbb, position yyy, year yyy
+2.  İlbank Inc., Summer Intern, 2023
 
 # Projects
 
+1.  ORS Bearings Inc., Graduation Project, 2022
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Microsoft Office, Solidworks, Minitab, Matlab
 
 # Hobbies
+
+Chess, Riding, Puzzles, Travelling, Swimming
