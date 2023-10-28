@@ -1,5 +1,8 @@
 ---
 title: "Assignment 1"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 # Assignment 1
@@ -7,17 +10,103 @@ title: "Assignment 1"
 My first assignment has three parts.
 
 ## (a)
-Sean Lopp | R & Python: Going Steady | RStudio
 
+**Sean Lopp \| R & Python: Going Steady \| RStudio**
 
-This video touches on an important topic about R and Python. He says he thinks people should definitely choose between R and Python. Actually, we don't have to choose one at all. A very good example of this is given in the video. This example is as follows:
+This video touches on an important topic about R and Python. He says he
+thinks people should definitely choose between R and Python. Actually,
+we don't have to choose one at all. A very good example of this is given
+in the video. This example is as follows:
 
-"Imagine you're a craftsman. As a craftsman, you'd probably be familiar with screwdrivers and you might be aware that screwdrivers come in a variety of different shapes and forms. Each of these screwdrivers is designed to serve a specific purpose. Now imagine as a craftsman if you were told that you have to choose for the rest of your career between using one type of screwdriver or another. "This example sounds crazy, doesn't it?
-Likewise, data scientists do not have to choose only R and Python throughout their lives. They can choose the easiest and fastest one according to their project and job and work accordingly.
-Finally, he stops the video by saying the following:
+"Imagine you're a craftsman. As a craftsman, you'd probably be familiar
+with screwdrivers and you might be aware that screwdrivers come in a
+variety of different shapes and forms. Each of these screwdrivers is
+designed to serve a specific purpose. Now imagine as a craftsman if you
+were told that you have to choose for the rest of your career between
+using one type of screwdriver or another."This example sounds crazy,
+doesn't it? Likewise, data scientists do not have to choose only R and
+Python throughout their lives. They can choose the easiest and fastest
+one according to their project and job and work accordingly. Finally, he
+stops the video by saying the following:
 
-"My final plea is to pick the people who will make your data science team effective and then supply them with what they need. Don't make people subservient to tools it should be the other way around allow data science teams to pick whatever language or tool is going to be most effective."
+"My final plea is to pick the people who will make your data science
+team effective and then supply them with what they need. Don't make
+people subservient to tools it should be the other way around allow data
+science teams to pick whatever language or tool is going to be most
+effective."
 
 ## (b)
 
+**Difference 1:** Coding style R and Python have different coding
+styles. R code is typically more concise and expressive, while Python
+code is more explicit and verbose.
+
+For example, to create a vector of numbers in R, you would use the
+following code: my_vector \<- c(1, 2, 3, 4, 5)
+
+In Python, you would use the following code:
+
+my_vector = \[1, 2, 3, 4, 5\]
+
+**Difference 2:** Syntax R and Python also have different syntax. Some
+of the key differences include:
+
+Variable assignment: In R, you assign values to variables using the \<-
+operator. In Python, you use the = operator.
+
+Function calls: In R, you call functions by enclosing the function name
+in parentheses, followed by the arguments to the function. In Python,
+you call functions by writing the function name, followed by the
+arguments to the function in parentheses.
+
+Conditional statements: In R, you use the if and else keywords to create
+conditional statements. In Python, you use the if, elif, and else
+keywords. For example, the following code shows how to create a
+conditional statement in R and Python:
+
+R:
+
+if (my_vector\[1\] \> 0) {
+
+print("The first element in the vector is greater than zero.")
+
+} else {
+
+print("The first element in the vector is less than or equal to zero.")
+
+}
+
+Python:
+
+if my_vector\[0\] \> 0:
+
+print("The first element in the vector is greater than zero.")
+
+else:
+
+print("The first element in the vector is less than or equal to zero.")
+
+**Difference 3:** Libraries and packages R and Python have different
+libraries and packages available for data science. R has a particularly
+strong focus on statistical analysis, while Python has a more
+general-purpose focus.
+
+Some of the most popular R libraries for data science include:
+
+dplyr: For data manipulation
+
+ggplot2: For data visualization
+
+caret: For machine learning
+
+Some of the most popular Python libraries for data science include:
+
+numpy: For scientific computing
+
+pandas: For data manipulation and analysis
+
+scikit-learn: For machine learning
+
 ## (c)
+
+
