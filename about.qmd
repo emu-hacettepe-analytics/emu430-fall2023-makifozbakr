@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-sidebar: false 
+sidebar: false
 ---
 
 # Education
@@ -12,7 +12,6 @@ sidebar: false
 ## Employements
 
 1.  Kuveyt Türk Participation Bank Inc., Candidate Engineer, 2023
-
 
 ## Internships
 

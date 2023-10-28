@@ -4,12 +4,20 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
-
-My first assignment has two parts.
+My first assignment has three parts.
 
 ## (a)
+Sean Lopp | R & Python: Going Steady | RStudio
+
+
+This video touches on an important topic about R and Python. He says he thinks people should definitely choose between R and Python. Actually, we don't have to choose one at all. A very good example of this is given in the video. This example is as follows:
+
+"Imagine you're a craftsman. As a craftsman, you'd probably be familiar with screwdrivers and you might be aware that screwdrivers come in a variety of different shapes and forms. Each of these screwdrivers is designed to serve a specific purpose. Now imagine as a craftsman if you were told that you have to choose for the rest of your career between using one type of screwdriver or another. "This example sounds crazy, doesn't it?
+Likewise, data scientists do not have to choose only R and Python throughout their lives. They can choose the easiest and fastest one according to their project and job and work accordingly.
+Finally, he stops the video by saying the following:
+
+"My final plea is to pick the people who will make your data science team effective and then supply them with what they need. Don't make people subservient to tools it should be the other way around allow data science teams to pick whatever language or tool is going to be most effective."
 
 ## (b)
+
+## (c)
