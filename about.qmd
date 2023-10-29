@@ -1,10 +1,6 @@
 ---
 title: "About Me"
 sidebar: false
-toc: true
-toc_label: "Resume|Özgeçmiş"
-toc_icon: "file-alt"
-toc_sticky: "false"
 ---
 
 # Education
