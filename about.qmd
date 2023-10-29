@@ -35,10 +35,6 @@ R, Quarto, Git, Python, Microsoft Office, Solidworks, Minitab, Matlab
 
 Chess, Riding, Puzzles, Travelling, Swimming
 
-<!--[Download my CV (English).](file:///C:/Users/akif2/OneDrive/Masa%C3%BCst%C3%BC/Mehmet%20Akif%20Ozbak%C4%B1r%20CV.pdf){: .btn .btn--success .btn--large }-->
-
-<a href="file:///C:/Users/akif2/OneDrive/Masa%C3%BCst%C3%BC/Mehmet%20Akif%20Ozbak%C4%B1r%20CV.pdf" target="_blank" class="btn btn--success btn--large">Download my CV (English).</a>
-
-<br/>
+[Download my CV](/assets/mehmet-akif-ozbakir-cv.pdf)
 
 
