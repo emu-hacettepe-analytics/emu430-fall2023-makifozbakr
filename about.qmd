@@ -1,11 +1,15 @@
 ---
 title: "About Me"
 sidebar: false
+toc: true
+toc_label: "Resume|Özgeçmiş"
+toc_icon: "file-alt"
+toc_sticky: "false"
 ---
 
 # Education
 
--   Industrial Engineering, Hacettepe University, Turkey, 2018 - Ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2018 - Ongoing.
 
 # Work Experience
 
@@ -30,3 +34,11 @@ R, Quarto, Git, Python, Microsoft Office, Solidworks, Minitab, Matlab
 # Hobbies
 
 Chess, Riding, Puzzles, Travelling, Swimming
+
+<!--[Download my CV (English).](file:///C:/Users/akif2/OneDrive/Masa%C3%BCst%C3%BC/Mehmet%20Akif%20Ozbak%C4%B1r%20CV.pdf){: .btn .btn--success .btn--large }-->
+
+<a href="file:///C:/Users/akif2/OneDrive/Masa%C3%BCst%C3%BC/Mehmet%20Akif%20Ozbak%C4%B1r%20CV.pdf" target="_blank" class="btn btn--success btn--large">Download my CV (English).</a>
+
+<br/>
+
+
