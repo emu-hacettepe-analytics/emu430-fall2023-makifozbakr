@@ -42,11 +42,18 @@ styles. R code is typically more concise and expressive, while Python
 code is more explicit and verbose.
 
 For example, to create a vector of numbers in R, you would use the
-following code: my_vector \<- c(1, 2, 3, 4, 5)
+following code:
+
+```{r}
+
+my_vector <- c(1, 2, 3, 4, 5)
+```
 
 In Python, you would use the following code:
 
-my_vector = \[1, 2, 3, 4, 5\]
+```{python}
+my_vector = [1, 2, 3, 4, 5]
+```
 
 **Difference 2:** Syntax R and Python also have different syntax. Some
 of the key differences include:
@@ -66,25 +73,31 @@ conditional statement in R and Python:
 
 R:
 
-if (my_vector\[1\] \> 0) {
+```{r}
 
-print("The first element in the vector is greater than zero.")
+if (my_vector[1] > 0) {
+  
+  print("The first element in the vector is greater than zero.")
 
 } else {
-
-print("The first element in the vector is less than or equal to zero.")
-
+  
+  print("The first element in the vector is less than or equal to zero.")
 }
+
+```
 
 Python:
 
-if my_vector\[0\] \> 0:
+```{python}
 
-print("The first element in the vector is greater than zero.")
+if my_vector [0] > 0:
+
+  print("The first element in the vector is greater than zero.")
 
 else:
 
-print("The first element in the vector is less than or equal to zero.")
+  print("The first element in the vector is less than or equal to zero.")
+```
 
 **Difference 3:** Libraries and packages R and Python have different
 libraries and packages available for data science. R has a particularly
@@ -109,4 +122,27 @@ scikit-learn: For machine learning
 
 ## (c)
 
+```{r}
+library(dslabs)
 
+# Load the "na_example" data set
+data("na_example")
+
+# Show the original data set with NA values
+print(na_example)
+
+# Count the total number of NAs in the original data set
+total_nas_original <- sum(is.na(na_example))
+print(total_nas_original)
+
+# Replace NAs with 0 and store in a new data frame
+na_example_no_na <- na_example
+na_example_no_na[is.na(na_example_no_na)] <- 0
+
+# Show the new data set without NAs
+print(na_example_no_na)
+
+# Count the total number of NAs in the new data set
+total_nas_new <- sum(is.na(na_example_no_na))
+print(total_nas_new)
+```
