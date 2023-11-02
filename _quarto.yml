@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Mehmet Akif ÖZBAKIR's Analytics Lab"
+  title: "[Mehmet Akif ÖZBAKIR]'s Analytics Lab"
   navbar:
+    background: "green"
     search: true
     left:
       - text: Home
