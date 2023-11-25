@@ -4,21 +4,21 @@
     "href": "project.html",
     "title": "Our Course Project",
     "section": "",
-    "text": "I’m honored to be a member of the [group name] project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to https://[your-project-url].\nSummary\n[provide a biref summary of your project]\n\n\n\n Back to top"
+    "text": "I’m honored to be a member of the [data_criminals] project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to https://emu-hacettepe-analytics.github.io/emu430-fall2023-team-data_criminals/data.html.\nSummary\nThe dataset, sourced from TUIK, covers convicts received into prison across Turkey between 2011 and 2020. It includes information on the type of crime committed and the educational status of the convicts. We chose this dataset because of its potential to unveil the connection between educational background and criminal behavior. Understanding how different types of crimes correlate with varying levels of education is essential for crafting targeted interventions.\nOur objectives include:\nWe will understand the relationship between education and crime. By analyzing the data set, we will gain insights into how educational attainment influences the likelihood of incarceration. We will develop proficiency in data manipulation and analysis using R. We will learn how to import, clean, transform, and visualize data using R’s built-in functions and libraries. We enhance critical thinking and problem-solving skills. We will apply their knowledge of R programming to draw meaningful conclusions from the data.\nOur preliminary plans include:\nWe will import the data set into R and perform any necessary cleaning and data preparation steps. We will visualize the data using various plots and charts to gain an initial understanding of the distribution of variables and the relationships between them. We will interpret the results of the analysis and communicate the findings in a clear and concise manner.\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Analytics Lab",
     "section": "",
-    "text": "Hello! My name is Mehmet Akif Özbakır.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
+    "text": "Hello! My name is Mehmet Akif Özbakır.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is my template.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
     "href": "assignments/assignment-2.html",
     "title": "Assignment 2",
     "section": "",
-    "text": "Assignment 2\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n Back to top"
+    "text": "Assignment 2\n\n1 + 1\n\n[1] 2\n\n\nI will continue.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -53,14 +53,14 @@
     "href": "assignments.html",
     "title": "My Assignments",
     "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2023] EMU 430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 29, 2023\n\n\n\n Back to top"
+    "text": "On this page, I showcase the assignment I conducted for the Fall 2023, EMU 430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on November 25, 2023\n\n\n\n Back to top"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "This page is under construction.\n\n\n\n Back to top"
+    "text": "This page is under construction. I will continue.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-1.html#a",
